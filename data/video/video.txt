@@ -1,0 +1,606 @@
+FRAME: 0
+Number of cars: 1
+Number of persons: 5
+Number of bicycles: 1
+FPS: 0.35
+FRAME: 1
+Number of cars: 1
+Number of persons: 5
+Number of bicycles: 1
+FPS: 0.87
+FRAME: 2
+Number of cars: 1
+Number of persons: 4
+Number of bicycles: 1
+FPS: 0.82
+FRAME: 3
+Number of cars: 1
+Number of persons: 4
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.97
+FRAME: 4
+Number of persons: 4
+Number of cars: 1
+Number of handbags: 1
+Number of bicycles: 1
+FPS: 0.92
+FRAME: 5
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.91
+FRAME: 6
+Number of persons: 5
+Number of cars: 1
+Number of handbags: 1
+Number of bicycles: 1
+FPS: 0.96
+FRAME: 7
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.95
+FRAME: 8
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.96
+FRAME: 9
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.95
+FRAME: 10
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.98
+FRAME: 11
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.98
+FRAME: 12
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.97
+FRAME: 13
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.97
+FRAME: 14
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.95
+FRAME: 15
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.90
+FRAME: 16
+Number of cars: 1
+Number of persons: 4
+Number of backpacks: 1
+Number of handbags: 1
+Number of bicycles: 1
+FPS: 0.92
+FRAME: 17
+Number of cars: 1
+Number of persons: 4
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.92
+FRAME: 18
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.92
+FRAME: 19
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+Number of handbags: 1
+FPS: 0.91
+FRAME: 20
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+Number of handbags: 1
+FPS: 0.97
+FRAME: 21
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+Number of handbags: 1
+FPS: 0.98
+FRAME: 22
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 2
+FPS: 0.97
+FRAME: 23
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.97
+FRAME: 24
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.98
+FRAME: 25
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.97
+FRAME: 26
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.94
+FRAME: 27
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.95
+FRAME: 28
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.94
+FRAME: 29
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.97
+FRAME: 30
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of handbags: 1
+Number of bicycles: 1
+FPS: 0.95
+FRAME: 31
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.82
+FRAME: 32
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.94
+FRAME: 33
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.95
+FRAME: 34
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.95
+FRAME: 35
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.85
+FRAME: 36
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.99
+FRAME: 37
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 1.00
+FRAME: 38
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of chairs: 1
+Number of handbags: 1
+FPS: 0.98
+FRAME: 39
+Number of cars: 1
+Number of persons: 4
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 1.00
+FRAME: 40
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.98
+FRAME: 41
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 1.00
+FRAME: 42
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+FPS: 0.97
+FRAME: 43
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+Number of handbags: 1
+FPS: 0.97
+FRAME: 44
+Number of persons: 4
+Number of cars: 1
+Number of handbags: 1
+Number of bicycles: 1
+Number of backpacks: 2
+FPS: 0.97
+FRAME: 45
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+Number of backpacks: 1
+FPS: 0.95
+FRAME: 46
+Number of persons: 4
+Number of cars: 1
+Number of handbags: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.97
+FRAME: 47
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+Number of backpacks: 1
+FPS: 0.96
+FRAME: 48
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+Number of handbags: 1
+FPS: 0.98
+FRAME: 49
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.98
+FRAME: 50
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.98
+FRAME: 51
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 2
+Number of backpacks: 1
+FPS: 0.95
+FRAME: 52
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.97
+FRAME: 53
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.98
+FRAME: 54
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+Number of handbags: 1
+FPS: 0.98
+FRAME: 55
+Number of persons: 5
+Number of cars: 1
+Number of backpacks: 1
+FPS: 0.95
+FRAME: 56
+Number of persons: 4
+Number of cars: 1
+Number of backpacks: 1
+FPS: 0.98
+FRAME: 57
+Number of persons: 4
+Number of cars: 1
+Number of sports balls: 1
+FPS: 0.98
+FRAME: 58
+Number of persons: 4
+Number of cars: 1
+Number of sports balls: 1
+Number of backpacks: 1
+FPS: 0.98
+FRAME: 59
+Number of persons: 4
+Number of cars: 1
+FPS: 0.98
+FRAME: 60
+Number of persons: 4
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 1.00
+FRAME: 61
+Number of persons: 4
+Number of bicycles: 2
+Number of backpacks: 1
+FPS: 0.98
+FRAME: 62
+Number of persons: 4
+Number of bicycles: 1
+FPS: 0.94
+FRAME: 63
+Number of persons: 3
+Number of bicycles: 1
+Number of cars: 1
+FPS: 0.95
+FRAME: 64
+Number of persons: 3
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.72
+FRAME: 65
+Number of cars: 1
+Number of persons: 3
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.76
+FRAME: 66
+Number of cars: 1
+Number of persons: 3
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.71
+FRAME: 67
+Number of cars: 1
+Number of persons: 2
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.81
+FRAME: 68
+Number of persons: 3
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.88
+FRAME: 69
+Number of persons: 2
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.86
+FRAME: 70
+Number of persons: 3
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.86
+FRAME: 71
+Number of persons: 3
+Number of cars: 1
+Number of bicycles: 2
+FPS: 0.74
+FRAME: 72
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 2
+Number of sports balls: 1
+FPS: 0.67
+FRAME: 73
+Number of persons: 4
+Number of cars: 1
+Number of sports balls: 1
+Number of bicycles: 2
+FPS: 0.84
+FRAME: 74
+Number of persons: 4
+Number of sports balls: 1
+Number of cars: 1
+Number of bicycles: 2
+FPS: 0.91
+FRAME: 75
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of sports balls: 1
+FPS: 0.93
+FRAME: 76
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 2
+Number of sports balls: 1
+FPS: 0.93
+FRAME: 77
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.96
+FRAME: 78
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.94
+FRAME: 79
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.97
+FRAME: 80
+Number of persons: 3
+Number of cars: 1
+Number of bicycles: 1
+Number of backpacks: 1
+FPS: 0.91
+FRAME: 81
+Number of persons: 3
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.96
+FRAME: 82
+Number of persons: 3
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.92
+FRAME: 83
+Number of persons: 4
+Number of cars: 1
+Number of handbags: 1
+Number of bicycles: 1
+FPS: 0.96
+FRAME: 84
+Number of persons: 4
+Number of cars: 1
+Number of handbags: 1
+Number of bicycles: 1
+FPS: 0.91
+FRAME: 85
+Number of persons: 3
+Number of cars: 1
+Number of handbags: 1
+Number of bicycles: 1
+FPS: 0.94
+FRAME: 86
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.92
+FRAME: 87
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.87
+FRAME: 88
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+Number of handbags: 1
+FPS: 0.84
+FRAME: 89
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.94
+FRAME: 90
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.93
+FRAME: 91
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.93
+FRAME: 92
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.98
+FRAME: 93
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.95
+FRAME: 94
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.77
+FRAME: 95
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.86
+FRAME: 96
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.90
+FRAME: 97
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.95
+FRAME: 98
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+FPS: 1.00
+FRAME: 99
+Number of persons: 5
+Number of cars: 1
+Number of bicycles: 1
+FPS: 1.00
+FRAME: 100
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.98
+FRAME: 101
+Number of persons: 4
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.97
+FRAME: 102
+Number of persons: 6
+Number of cars: 1
+Number of bicycles: 1
+FPS: 0.94
